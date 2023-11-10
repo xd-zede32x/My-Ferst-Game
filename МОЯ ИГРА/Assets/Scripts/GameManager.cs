@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-
     [SerializeField] GameObject _startMenu;
     [SerializeField] TextMeshProUGUI _levelText;
     [SerializeField] GameObject _finishWindow;
